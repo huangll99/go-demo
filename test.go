@@ -5,5 +5,5 @@ import (
 )
 
 func main(){
-  fmt.Println("hello golang!!!")
+  fmt.Println("hello rancher !!!")
 }
